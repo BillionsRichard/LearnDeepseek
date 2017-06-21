@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<points>
+	<label>
+		<note1>
+			标签区分大小写
+		</note1>
+		<note2>
+			不能以数字或者标点符号或"_"打头。
+		</note2>
+		<note3>
+			不能包含空格
+		</note3>
+		<note4>
+			标签名称中不能包含冒号.
+		</note4>
+	</label>
+	
+	<property>
+		<note1></note1>
+	</property>
+	
+	<comment>
+		<location>
+			注释《！-- --》，可以出现在文档任意位置，除了文档最前面,最前面只能是文档声明.
+		</location>
+		<note>不能嵌套注释.</note>
+	</comment>
+</points>

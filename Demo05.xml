@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<root>
+	<escapeChar>
+		<usage>
+			&lt;![CDATA[ 转移数据 ]] &gt;
+		</usage>
+		<![CDATA[
+		张三的歌<蔡琴>
+		]]>
+	</escapeChar>
+	<alternative>
+		张三的歌&lt;蔡琴&gt;
+	</alternative>
+</root>
